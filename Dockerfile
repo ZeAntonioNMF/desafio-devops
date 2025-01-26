@@ -1,4 +1,4 @@
-FROM python:3.14.0a1-slim
+FROM python:3.14.0a4-alpine3.20
 
 # Define o diretório de trabalho dentro do container
 WORKDIR /app
